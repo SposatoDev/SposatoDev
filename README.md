@@ -6,6 +6,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 
 ---
 
+## 📌 Projetos em Destaque
+- [⏱️ Chronos Pomodoro](https://github.com/SposatoDev/chronos-pomodoro) – *App Pomodoro feito em React + TypeScript*
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
