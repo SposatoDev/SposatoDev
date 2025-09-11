@@ -8,6 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com f
 
 ## 📌 Projetos em Destaque
 - [⏱️ Chronos Pomodoro](https://github.com/SposatoDev/chronos-pomodoro) – *App Pomodoro feito em React + TypeScript*
+- [👤 User API](https://github.com/SposatoDev/API-Cadastro) – *API RESTful de cadastro de usuários feita com Node.js, Express e Prisma*
 
 ---
 
