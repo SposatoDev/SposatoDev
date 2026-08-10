@@ -1,8 +1,17 @@
 ## Kauã Sato Sposato
 
-**`Desenvolvedor em formação`**
+**`Desenvolvedor em formação | Dados, BI & Python`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga, com foco em me tornar desenvolvedor full stack. Tenho conhecimentos em HTML, CSS, JavaScript, Git e GitHub, além de estar em constante aprendizado em React.js, Next.js e Python. Destaco-me pela organização, capacidade de aprendizado contínuo e dedicação em evoluir tecnicamente, buscando minha primeira oportunidade profissional para aplicar meus conhecimentos e contribuir em projetos reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e estagiário em Análise de Dados no Banco Daycoval, atuando na área de Planejamento de Crédito e Informação.
+
+Minha experiência está diretamente ligada ao ecossistema de **Business Intelligence e Analytics**, utilizando principalmente **Python, R, SQL e Excel** para desenvolver análises, automações, dashboards, KPIs e estudos voltados à geração de insights e apoio à tomada de decisão.
+
+Tenho interesse especial em **dados, programação, inteligência de negócio, modelagem e mercado financeiro**. No desenvolvimento dos meus projetos pessoais, busco transformar conhecimentos teóricos em aplicações práticas, explorando desde fundamentos de programação e orientação a objetos até análise de dados, estatística e inteligência artificial.
+
+Este GitHub reúne parte dessa trajetória: projetos desenvolvidos para **aprender, experimentar, resolver problemas e evoluir tecnicamente**, com foco em construir uma base sólida de programação e ampliar continuamente minhas habilidades.
+
+**Tecnologias e conhecimentos:**
+Python • SQL • R • Excel • Git • GitHub • Business Intelligence • Análise de Dados • Programação Orientada a Objetos • Estatística • Machine Learning
 
 ---
 
